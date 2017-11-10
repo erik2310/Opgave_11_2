@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="230.20595238095234" y="516.0">Faculty</node>
+    <node x="405.20595238095234" y="527.0">Staff</node>
+    <node x="55.20595238095234" y="527.0">Student</node>
+    <node x="427.83095238095234" y="302.0">Employee</node>
+    <node x="456.08333333333326" y="0.0">MyDate</node>
+    <node x="224.51488095238088" y="716.0">Test</node>
+    <node x="0.0" y="36.326086956521735">Person</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Test" target="Employee">
+      <point x="59.849999999999994" y="-26.0" />
+      <point x="369.8648809523809" y="686.0" />
+      <point x="570.7059523809523" y="686.0" />
+      <point x="570.7059523809523" y="496.0" />
+      <point x="532.2059523809523" y="496.0" />
+      <point x="20.875" y="82.0" />
+    </edge>
+    <edge source="Staff" target="Employee">
+      <point x="0.0" y="-49.0" />
+      <point x="482.70595238095234" y="496.0" />
+      <point x="490.45595238095234" y="496.0" />
+      <point x="-20.875" y="82.0" />
+    </edge>
+    <edge source="Test" target="Faculty">
+      <point x="-8.549999999999983" y="-26.0" />
+      <point x="301.4648809523809" y="656.0" />
+      <point x="268.95595238095234" y="656.0" />
+      <point x="-38.75" y="60.0" />
+    </edge>
+    <edge source="Employee" target="Person">
+      <point x="-55.66666666666666" y="-82.0" />
+      <point x="455.6642857142857" y="277.0" />
+      <point x="161.0" y="277.0" />
+      <point x="69.0" y="93.0" />
+    </edge>
+    <edge source="Test" target="Person">
+      <point x="-76.94999999999996" y="-26.0" />
+      <point x="233.06488095238092" y="696.0" />
+      <point x="33.70595238095234" y="696.0" />
+      <point x="33.70595238095234" y="277.0" />
+      <point x="23.0" y="277.0" />
+      <point x="-69.0" y="93.0" />
+    </edge>
+    <edge source="Faculty" target="Employee">
+      <point x="0.0" y="-60.0" />
+      <point x="307.70595238095234" y="496.0" />
+      <point x="448.70595238095234" y="496.0" />
+      <point x="-62.625" y="82.0" />
+    </edge>
+    <edge source="Employee" target="MyDate">
+      <point x="55.66666666666666" y="-82.0" />
+      <point x="566.997619047619" y="277.0" />
+      <point x="588.8333333333333" y="277.0" />
+      <point x="44.25" y="126.0" />
+    </edge>
+    <edge source="Test" target="Staff">
+      <point x="25.650000000000006" y="-26.0" />
+      <point x="335.6648809523809" y="666.0" />
+      <point x="443.95595238095234" y="666.0" />
+      <point x="-38.75" y="49.0" />
+    </edge>
+    <edge source="Student" target="Person">
+      <point x="0.0" y="-49.0" />
+      <point x="132.70595238095234" y="277.0" />
+      <point x="115.0" y="277.0" />
+      <point x="23.0" y="93.0" />
+    </edge>
+    <edge source="Test" target="Student">
+      <point x="-25.649999999999977" y="-26.0" />
+      <point x="284.3648809523809" y="666.0" />
+      <point x="171.45595238095234" y="666.0" />
+      <point x="38.75" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9019607843137255" x="261.695652173913" y="145.0" />
+  <SelectedNodes>
+    <node>Person</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
