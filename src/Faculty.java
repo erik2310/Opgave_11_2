@@ -1,5 +1,7 @@
 public class Faculty extends Employee {
 
+    // Lavet af Erik Ruhmanis
+
     // Deklarerer og initialiserer variablerne
     int officeHours = 0;
     String rank = "";

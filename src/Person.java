@@ -1,5 +1,7 @@
 public class Person {
 
+    // Lavet af Erik Ruhmanis
+
     // Deklarerer og initialiserer variablerne
     String name = "";
     String address = "";

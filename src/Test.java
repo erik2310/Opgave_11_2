@@ -1,5 +1,7 @@
 public class Test {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
 
         // Laver objekterne af klasserne

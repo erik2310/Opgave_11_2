@@ -1,5 +1,7 @@
 public class Staff extends Employee {
 
+    // Lavet af Erik Ruhmanis
+
     // Deklarerer og initialiserer variablerne
     String title = "";
 

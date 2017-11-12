@@ -1,5 +1,7 @@
 public class Employee extends Person {
 
+    // Lavet af Erik Ruhmanis
+
     // Deklarerer og initialiserer variablerne
     String office = "";
     double salary = 0.0;
